@@ -15,19 +15,20 @@ A Coloarado Board of Elections employee has given you the following tasks to com
 
 ## Summary
 The analysis of the election show that:
-- There were "x" votes cast in the electio.
+- There were 369,711 votes cast in the election.
 - The candidates were:
-  - Candidate 1
-  - Candidate 2
-  - Candidate 3
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
 - The Candidate results were:
-  - Candidate 1 received "x%" of the vote and "y" number of votes.
-  - Candidate 2 received "x%" of the vote and "y" number of votes.
-  - Candidate 3 received "x%" of the vote and "y" number of votes.
+  - Charles Casper Stockham: 23.0% (TOtal Votes: 85,213)
+  - Diana DeGette: 73.8% (Total Votes: 272,892)
+  - Raymon Anthony Doane: 3.1% (Total Votes: 11,606)
 - The winner of the election was:
-  - Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
+  - Diana DeGette: 73.8% (Total Votes: 272,892)
 
 ## Challenge Overview
+
 
 
 ## Challenge Summary
