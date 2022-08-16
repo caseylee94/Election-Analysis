@@ -41,9 +41,11 @@ This analysis shows that:
 ### Important Pieces of Code Used in Analysis
 
   * For this analysis, the "with open" python function was utilized to open the election results data (as shown below) for the analysis and then to open the text file  where the results were written. 
+  
 ![With_Open.png](/Resources/With_Open.png)
 
   * This "for loop" python function was utilized to get the number of votes for each county as well as calculate the percentage of votes for each county. This code was repeated to obtain the results for the number of candidate votes and their percentage of the total vote. The last line (txtfile.write(county_results)) is the code to write the results to the text file.
+  
 ![For_Loop_County_Votes.png](/Resources/For_Loop_County_Votes.png)
 
 
