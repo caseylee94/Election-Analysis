@@ -38,10 +38,10 @@ This analysis shows that:
 * The winner of the election was:
   * Diana DeGette: 73.8% (Total Votes: 272,892)
 
-** For this analysis, the "with open" python function was utilized to open the election results data (as shown below) for the analysis and then to open the text file where the results were written. 
+  * For this analysis, the "with open" python function was utilized to open the election results data (as shown below) for the analysis and then to open the text file  where the results were written. 
 ![With_Open.png](/resources/With_Open.png)
 
-** This "for loop" python function was utilized to get the number of votes for each county as well as calculate the percentage of votes for each county. This code was repeated to obtain the results for the number of candidate votes and their percentage of the total vote. The last line (txtfile.write(county_results)) is the code to write the results to the text file.
+  * This "for loop" python function was utilized to get the number of votes for each county as well as calculate the percentage of votes for each county. This code was repeated to obtain the results for the number of candidate votes and their percentage of the total vote. The last line (txtfile.write(county_results)) is the code to write the results to the text file.
 ![For_Loop_County_Votes.png](/resources/For_Loop_County_Votes.png)
 
 
