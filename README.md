@@ -28,6 +28,11 @@ The analysis of the election show that:
   - Diana DeGette: 73.8% (Total Votes: 272,892)
 
 ## Challenge Overview
+The Colorado Board now wants to expand the analysis to cover the voteer turnout in each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. These results will be printed to the terminal as well as saved in a text file. 
+
+## Election Audit Results
+
+* 
 
 
 
