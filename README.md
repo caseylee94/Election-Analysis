@@ -48,9 +48,11 @@ This analysis shows that:
   
 ![For_Loop_County_Votes.png](/Resources/For_Loop_County_Votes.png)
 
- * This "if" statement was used to compare the results of each county and determine which had the most votes and was therefore the winner.
+ * This "if" statement was used to compare the results of each county and determine which had the most votes and was therefore the winner. This same logic was used to determine the winning candidate.
  
  ![Winning_Percentage.png](/Resources/Winning_Percentage.png)
 
 
 ## Challenge Summary
+
+This analysis has shown that Denver by far had the largest voter turnout of the counties and the winning candidate is Diana DeGette. This analysis also found the voter turnout for each county and the percentage of votes for each candidate. This code can be modified for future analysis of other elections or components of elections: it could easily be applied to state or presidential elections. It could be used to analyze different methods of voting (mail-in ballots versus in-person machines) or to analyze the voting population. 
