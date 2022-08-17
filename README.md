@@ -48,11 +48,9 @@ This analysis shows that:
   
 ![For_Loop_County_Votes.png](/Resources/For_Loop_County_Votes.png)
 
-
-
-
-
-
+ * This "if" statement was used to compare the results of each county and determine which had the most votes and was therefore the winner.
+ 
+ ![Winning_Percentage.png](/Resources/Winning_Percentage.png)
 
 
 ## Challenge Summary
